@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "741d6344a182cc31b05c2c4d392ea8a5",
+    "revision": "368086d0c50dce81fb0007a4c963e814",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "11527029f83ac839afed",
-    "url": "/my-app/static/css/main.011438ea.chunk.css"
+    "revision": "37e2cae7619b3a3f4b09",
+    "url": "/my-app/static/css/main.493d6a50.chunk.css"
   },
   {
-    "revision": "4afdc0ec2e2b936a1227",
-    "url": "/my-app/static/js/2.8fa138d7.chunk.js"
+    "revision": "ad4d95d6f3c16d3d347c",
+    "url": "/my-app/static/js/2.8e72d933.chunk.js"
   },
   {
-    "revision": "35e9035c4541049d41232fe0bf96f70b",
-    "url": "/my-app/static/js/2.8fa138d7.chunk.js.LICENSE.txt"
+    "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
+    "url": "/my-app/static/js/2.8e72d933.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11527029f83ac839afed",
-    "url": "/my-app/static/js/main.1bfc48c8.chunk.js"
+    "revision": "37e2cae7619b3a3f4b09",
+    "url": "/my-app/static/js/main.dde0e355.chunk.js"
   },
   {
     "revision": "134c6d7b033e4b816dc9",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "246ea86865738b7436bc8401493e628f",
     "url": "/my-app/static/media/cover.246ea868.jpg"
+  },
+  {
+    "revision": "31fa6d53c8cd4fb9615a4b14603a60e2",
+    "url": "/my-app/static/media/dave-stern-consulting.31fa6d53.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
