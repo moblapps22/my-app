@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c8e91022e5a803603afaadb0a5d370d",
+    "revision": "5b48802bf1d808afc0f6fd3dfe3fce5e",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "74f1c0b2f51066c3053b",
-    "url": "/my-app/static/css/main.c7b84112.chunk.css"
+    "revision": "6e319dfb7bc4b5ef929d",
+    "url": "/my-app/static/css/main.cbc43b7e.chunk.css"
   },
   {
-    "revision": "36776ab35c69a17fdb22",
-    "url": "/my-app/static/js/2.0c3ffff2.chunk.js"
+    "revision": "1b97bd43cc48ec1ba254",
+    "url": "/my-app/static/js/2.e8277b3a.chunk.js"
   },
   {
     "revision": "e9a45d9472c063c8a1c023664dfc3c9f",
-    "url": "/my-app/static/js/2.0c3ffff2.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.e8277b3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74f1c0b2f51066c3053b",
-    "url": "/my-app/static/js/main.ad6183f6.chunk.js"
+    "revision": "6e319dfb7bc4b5ef929d",
+    "url": "/my-app/static/js/main.94e368de.chunk.js"
   },
   {
     "revision": "134c6d7b033e4b816dc9",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31fa6d53c8cd4fb9615a4b14603a60e2",
     "url": "/my-app/static/media/dave-stern-consulting.31fa6d53.png"
+  },
+  {
+    "revision": "681261f2503a447b3f1f857b0b0fffa2",
+    "url": "/my-app/static/media/dave-stern.681261f2.jpg"
+  },
+  {
+    "revision": "e3840371d41e2df889566aa093f67b46",
+    "url": "/my-app/static/media/dealstat.e3840371.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -74,5 +82,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b9959e167f94349be29be7284e7b9112",
     "url": "/my-app/static/media/pic01.b9959e16.jpg"
+  },
+  {
+    "revision": "3e90b94373faf5bb8f27fd54961ea832",
+    "url": "/my-app/static/media/services-laptop.3e90b943.png"
+  },
+  {
+    "revision": "05cfb19a6210097681bb2a9c641129e4",
+    "url": "/my-app/static/media/tinybop_logo_RGB_600px.05cfb19a.png"
   }
 ]);

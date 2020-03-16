@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c7b84112.chunk.css",
-    "main.js": "/my-app/static/js/main.ad6183f6.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ad6183f6.chunk.js.map",
+    "main.css": "/my-app/static/css/main.cbc43b7e.chunk.css",
+    "main.js": "/my-app/static/js/main.94e368de.chunk.js",
+    "main.js.map": "/my-app/static/js/main.94e368de.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.56c001b7.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.56c001b7.js.map",
-    "static/js/2.0c3ffff2.chunk.js": "/my-app/static/js/2.0c3ffff2.chunk.js",
-    "static/js/2.0c3ffff2.chunk.js.map": "/my-app/static/js/2.0c3ffff2.chunk.js.map",
+    "static/js/2.e8277b3a.chunk.js": "/my-app/static/js/2.e8277b3a.chunk.js",
+    "static/js/2.e8277b3a.chunk.js.map": "/my-app/static/js/2.e8277b3a.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.b1df7ffcfecae914ec0286dbf6fdbb7b.js": "/my-app/precache-manifest.b1df7ffcfecae914ec0286dbf6fdbb7b.js",
+    "precache-manifest.dd6d202978c3987f3f7b8dc0c8bdcf3a.js": "/my-app/precache-manifest.dd6d202978c3987f3f7b8dc0c8bdcf3a.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.c7b84112.chunk.css.map": "/my-app/static/css/main.c7b84112.chunk.css.map",
-    "static/js/2.0c3ffff2.chunk.js.LICENSE.txt": "/my-app/static/js/2.0c3ffff2.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/my-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/css/main.cbc43b7e.chunk.css.map": "/my-app/static/css/main.cbc43b7e.chunk.css.map",
+    "static/js/2.e8277b3a.chunk.js.LICENSE.txt": "/my-app/static/js/2.e8277b3a.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/my-app/static/media/cover.246ea868.jpg",
     "static/media/dave-stern-consulting.png": "/my-app/static/media/dave-stern-consulting.31fa6d53.png",
-    "static/media/font-awesome.min.css": "/my-app/static/media/fontawesome-webfont.af7ae505.woff2",
+    "static/media/dave-stern.jpg": "/my-app/static/media/dave-stern.681261f2.jpg",
+    "static/media/dealstat.png": "/my-app/static/media/dealstat.e3840371.png",
+    "static/media/font-awesome.min.css": "/my-app/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/bootstrap.css": "/my-app/static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg",
-    "static/media/pic01.jpg": "/my-app/static/media/pic01.b9959e16.jpg"
+    "static/media/pic01.jpg": "/my-app/static/media/pic01.b9959e16.jpg",
+    "static/media/style.css": "/my-app/static/media/services-laptop.3e90b943.png",
+    "static/media/tinybop_logo_RGB_600px.png": "/my-app/static/media/tinybop_logo_RGB_600px.05cfb19a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.56c001b7.js",
-    "static/js/2.0c3ffff2.chunk.js",
-    "static/css/main.c7b84112.chunk.css",
-    "static/js/main.ad6183f6.chunk.js"
+    "static/js/2.e8277b3a.chunk.js",
+    "static/css/main.cbc43b7e.chunk.css",
+    "static/js/main.94e368de.chunk.js"
   ]
 }
